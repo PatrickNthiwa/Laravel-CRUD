@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1>Laravel CR</h1>
+                <h1>Laravel CRUD</h1>
             </div>
         </div>
     </div>
