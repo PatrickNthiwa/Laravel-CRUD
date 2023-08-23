@@ -3,7 +3,7 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-12 text-cente">
+            <div class="col-12 text-center ">
                 <h1>Laravel CRUD Application</h1>
             </div>
         </div>
