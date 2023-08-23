@@ -2,6 +2,6 @@
 @section('content')
 
     <div class="container">
-        .r
+        .row
     </div>
 @endsection
