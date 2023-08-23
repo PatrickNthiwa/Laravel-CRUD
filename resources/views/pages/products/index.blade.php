@@ -1,1 +1,1 @@
-@extends('layo')
+@extends('layout')
