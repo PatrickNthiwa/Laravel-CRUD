@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-12 text-center pt-5">
                 <h1>Laravel CRUD Application</h1>
-                <p>Welcome</p>
+                <p>Welcome to</p>
             </div>
         </div>
     </div>
