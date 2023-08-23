@@ -11,7 +11,7 @@
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                   <h1>Laravel CRUD Application.</h1>
 
-                  <p>Welcome to Laravel Crdu Apalicatio</p>
+                  <p>Welcome to Laravel Crud Application</p>
                 </div>
             </div>
         </div>
