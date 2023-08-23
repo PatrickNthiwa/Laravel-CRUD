@@ -15,7 +15,7 @@
                 </div>
 
             <br>
-            <a href="product" cla></a>
+            <a href="product" class></a>
             </div>
         </div>
     </div>
