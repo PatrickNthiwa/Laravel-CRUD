@@ -1,1 +1,1 @@
-@extends('la')
+@extends('layo')
