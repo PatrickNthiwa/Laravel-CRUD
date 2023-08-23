@@ -15,7 +15,7 @@
                 </div>
 
             <br>
-            <a href="product" class></a>
+            <a href="product" class="btn btn-primary">Show Products</a>
             </div>
         </div>
     </div>
