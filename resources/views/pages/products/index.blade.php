@@ -3,7 +3,7 @@
 
     <div class="container">
         <div class="row">
-            .col-12 text
+            .col-12 t
         </div>
     </div>
 @endsection
