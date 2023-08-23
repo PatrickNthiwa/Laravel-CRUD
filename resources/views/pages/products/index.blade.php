@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1>Larave</h1>
+                <h1>Laravel </h1>
             </div>
         </div>
     </div>
