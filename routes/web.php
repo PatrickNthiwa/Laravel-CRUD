@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('pages.');
+    return view('pages.loan');
 });
 
 Auth::routes();
