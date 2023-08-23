@@ -3,7 +3,11 @@
 
     <div class="container">
         <div class="row">
-            .col-12>text-center>pt-
+            <div class="col-12">
+                <text-center>
+                    <pt-5></pt-5>
+                </text-center>
+            </div>
         </div>
     </div>
 @endsection
