@@ -3,7 +3,7 @@
 
     <div class="container">
         <div class="row">
-            .col-12>text-center>pt-
+            .col-12>text-center>
         </div>
     </div>
 @endsection
