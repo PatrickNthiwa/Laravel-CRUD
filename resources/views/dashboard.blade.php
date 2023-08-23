@@ -12,6 +12,7 @@
                   <h1>Laravel CRUD Application.</h1>
 
                   <p>Welcome to Laravel Crud Application</p>
+
                   
                 </div>
             </div>
