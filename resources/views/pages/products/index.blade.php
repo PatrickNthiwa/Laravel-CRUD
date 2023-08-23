@@ -7,7 +7,7 @@
                 <h1>Laravel CRUD Application</h1>
                 <p>Welcome to Laravel Project</p>
                 <br>
-                <a href="product">Show</a>
+                <a href="product">Show Pro</a>
             </div>
         </div>
     </div>
