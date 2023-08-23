@@ -3,7 +3,7 @@
 
     <div class="container">
         <div class="row">
-            .col-12>te
+            .col-12
         </div>
     </div>
 @endsection
