@@ -10,10 +10,10 @@
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900 dark:text-gray-100 ">
        
-                <div class="row">
-                    <h1  >Laravel CRUD Application.</h1>
-                    <p>Welcome to Laravel Crud Application</p>
-                </div>
+                    <div class="row">
+                        <h1  >Laravel CRUD Application.</h1>
+                        <p>Welcome to Laravel Crud Application</p>
+                    </div>
                   <br>
                  <a href="product" class="btn btn-primary">Show Products</a>
                 </div>
