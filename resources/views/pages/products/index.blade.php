@@ -3,7 +3,7 @@
 
     <div class="container">
         <div class="row">
-            
+            .co
         </div>
     </div>
 @endsection
