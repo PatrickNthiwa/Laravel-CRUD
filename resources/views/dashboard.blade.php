@@ -15,7 +15,7 @@
                         <p>Welcome to Laravel Crud Application</p>
                     </div>
                   <br>
-                  <button class="">Show Products</button>
+                 <a href="product" class="btn btn-outline-danger">Show Products</a>
                 </div>
             </div>
         </div>
