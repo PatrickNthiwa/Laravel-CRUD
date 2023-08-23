@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('pages.products.i');
+    return view('pages.pro');
 });
 
 Auth::routes();
