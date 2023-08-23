@@ -15,7 +15,7 @@
                         <p>Welcome to Laravel Crud Application</p>
                     </div>
                   <br>
-                 <a href="product" class="btn btn-primary">Show Products</a>
+                 <a href="product" class="btn btn-primary ">Show Products</a>
                 </div>
             </div>
         </div>
