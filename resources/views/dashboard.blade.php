@@ -15,7 +15,7 @@
                         <p>Welcome to Laravel Crud Application</p>
                     </div>
                   <br>
-                  ub
+                  u
                 </div>
             </div>
         </div>
