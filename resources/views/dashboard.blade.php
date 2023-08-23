@@ -15,7 +15,7 @@
                         <p>Welcome to Laravel Crud Application</p>
                     </div>
                   <br>
-                  <button>Show Pro</button>
+                  <button>Show Products</button>
                 </div>
             </div>
         </div>
