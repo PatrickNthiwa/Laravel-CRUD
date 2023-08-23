@@ -1,2 +1,2 @@
 @extends('layouts.app')
-@section('co')
+@section('cont')
